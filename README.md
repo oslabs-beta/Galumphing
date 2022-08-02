@@ -8,7 +8,7 @@ Galumpher is an open-source developer tool to help monitor the health and status
 that are currently running on your local machine. Galumpher allows users to view important metrics at a quick glance
 and update them at the click of a button. 
 
-![metricsContainer](./src/client/assets/galumpher-readme.png)
+![metricsContainer](./src/client/assets/galumpher-readMe.png)
 
 ## Features
 
